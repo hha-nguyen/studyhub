@@ -3,10 +3,6 @@ anaconda-client
 conda
 conda-build
 conda-pack
-conda-package-handling
-conda-repo-cli
-conda-token
-conda-verify
 dj-database-url
 Django
 django-cors-headers
