@@ -1,5 +1,4 @@
 anaconda-client
-anaconda-navigator
 appdirs
 asgiref
 conda==23.1.0
