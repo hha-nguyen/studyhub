@@ -8,4 +8,4 @@ Django
 django-cors-headers
 django-heroku
 djangorestframework
-
+gunicorn
