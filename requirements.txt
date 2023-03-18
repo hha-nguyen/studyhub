@@ -1,11 +1,4 @@
-alabaster==0.7.12
-anaconda-client
-conda
-conda-build
-conda-pack
-dj-database-url
-Django
-django-cors-headers
-django-heroku
-djangorestframework
-gunicorn
+Django==4.1.7
+djangorestframework==3.14.0
+
+pathlib~=1.0.1
