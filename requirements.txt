@@ -2,7 +2,6 @@ alabaster==0.7.12
 anaconda-client
 conda
 conda-build
-conda-content-trust
 conda-pack
 conda-package-handling
 conda-repo-cli
