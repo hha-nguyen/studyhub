@@ -3,7 +3,6 @@ appdirs
 asgiref
 conda
 conda-build
-conda-repo-cli
 dj-database-url
 Django
 django-cors-headers
