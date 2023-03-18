@@ -12,3 +12,7 @@ sqlparse
 statsmodels
 tables
 TBB
+gunicorn
+whitenoise
+tzdata
+psycopg2
